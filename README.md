@@ -1,2 +1,2 @@
 # CSharpDevKit
-same dotnet app using C# Dev Kit
+sample dotnet app using C# Dev Kit
