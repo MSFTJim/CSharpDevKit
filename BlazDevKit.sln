@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazDevKit", "BlazDevKit\BlazDevKit.csproj", "{8561E255-DAC2-4D89-9A86-7FC583F1B775}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazCLI", "BlazCLI\BlazCLI.csproj", "{57743FDC-B12A-4875-836D-7E1ECB70F125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myBlazorServer", "myBlazorServer\myBlazorServer.csproj", "{4F832B30-3C51-452A-B891-9BED835BB9B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{8561E255-DAC2-4D89-9A86-7FC583F1B775}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8561E255-DAC2-4D89-9A86-7FC583F1B775}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8561E255-DAC2-4D89-9A86-7FC583F1B775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57743FDC-B12A-4875-836D-7E1ECB70F125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57743FDC-B12A-4875-836D-7E1ECB70F125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57743FDC-B12A-4875-836D-7E1ECB70F125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57743FDC-B12A-4875-836D-7E1ECB70F125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F832B30-3C51-452A-B891-9BED835BB9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F832B30-3C51-452A-B891-9BED835BB9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F832B30-3C51-452A-B891-9BED835BB9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F832B30-3C51-452A-B891-9BED835BB9B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
